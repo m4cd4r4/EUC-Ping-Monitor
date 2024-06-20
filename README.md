@@ -1,3 +1,7 @@
+
+![Screenshot 2024-06-20 143040a](https://github.com/m4cd4r4/EUC-Ping-Monitor/assets/47749761/cb02e789-5a92-4798-8de5-73a188a24bdc)
+
+
 # EUC-Ping-Monitor
 
 ## Introduction
